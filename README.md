@@ -1,4 +1,4 @@
-# CS 1400, Mid-term Fall 2023
+# CS 1400, Mid-term Fall 2024
 
 ## Water Usage Billing System
 
